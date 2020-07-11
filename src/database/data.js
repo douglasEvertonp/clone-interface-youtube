@@ -11,7 +11,7 @@ export default {
       date: 'há 1 dia',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb1.png',
-      video: '/video/video1.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb2.png',
-      video: '/video/video2.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb3.png',
-      video: '/video/video3.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 4,
@@ -44,7 +44,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb4.png',
-      video: '/video/video4.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 5,
@@ -55,7 +55,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb5.png',
-      video: '/video/video5.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 6,
@@ -65,7 +65,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb6.png',
-      video: '/video/video6.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 7,
@@ -76,7 +76,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb7.png',
-      video: '/video/video7.mp4',
+      video: '/video/video8.mp4',
     },
     {
       id: 8,
