@@ -10,7 +10,7 @@ export default {
       views: '11 mi de visualizações',
       date: 'há 1 dia',
       avatar: '/images/avatar.jpeg',
-      thumb: '/images/thumb1.png',
+      thumb: '/images/thumb1.jpg',
       video: '/video/video1.mp4',
     },
     {
@@ -21,7 +21,7 @@ export default {
       views: '957 mil visualizações',
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
-      thumb: '/images/thumb2.png',
+      thumb: '/images/thumb2.jpg',
       video: '/video/video2.mp4',
     },
     {
@@ -32,7 +32,7 @@ export default {
       views: '106 mil visualizações',
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
-      thumb: '/images/thumb3.png',
+      thumb: '/images/thumb3.jpg',
       video: '/video/video3.mp4',
     },
     {
@@ -43,7 +43,7 @@ export default {
       views: '5,6 mi de visualizações',
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
-      thumb: '/images/thumb4.png',
+      thumb: '/images/thumb4.jpg',
       video: '/video/video4.mp4',
     },
     {
