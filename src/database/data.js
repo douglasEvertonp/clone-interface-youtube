@@ -55,7 +55,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb5.png',
-      video: '/video/video8.mp4',
+      video: '/video/video5.mp4',
     },
     {
       id: 6,
@@ -65,7 +65,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb6.png',
-      video: '/video/video8.mp4',
+      video: '/video/video6.mp4',
     },
     {
       id: 7,
@@ -76,7 +76,7 @@ export default {
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb7.png',
-      video: '/video/video8.mp4',
+      video: '/video/video7.mp4',
     },
     {
       id: 8,
