@@ -28,7 +28,7 @@ import Flag from '@material-ui/icons/Flag'
 import Feedback from '@material-ui/icons/Feedback'
 import Help from '@material-ui/icons/Help'
 
-
+import { Link } from 'react-router-dom'
 
 
 function HeaderBar(){
@@ -102,7 +102,7 @@ function HeaderBar(){
                    <IconButton onClick={open} edge="start" className={classes.MenuIcon} color="inherit" aria-label="menu">
                        <MenuIcon />
                     </IconButton>
-                    <img src="/images/preto.png" alt="Logo" style={{width: 110}}/>
+                    <Link to="/"><img src="/images/preto.png" alt="Logo" style={{width: 110}}/></Link>
 
                     <div className={classes.Grow}/>
                     <IconButton edge="start" className={classes.icons} color="inherit" aria-label="menu">
