@@ -5,7 +5,7 @@ export default {
      {
       id: 1,
       title:
-        'The Ultimate Lilo & Stitch Recap Cartoon',
+        'Rap do Itachi (Naruto) - ESSA DOR QUE CAUSEI... | NERD HITS',
       channel: 'Everton Douglas',
       views: '11 mi de visualizações',
       date: 'há 1 dia',
@@ -70,12 +70,12 @@ export default {
     {
       id: 7,
       title:
-        'THIAGO VENTURA - TIGAS E O BEACH PARK l Legendado',
+        'Jefferson Moraes - Meu Anjo',
       channel: 'Everton Douglas',
       views: '118 mil visualizações',
       date: 'há 1 semana',
       avatar: '/images/avatar.jpeg',
-      thumb: '/images/thumb7.png',
+      thumb: '/images/thumb7.jpg',
       video: '/video/video7.mp4',
     },
     {
@@ -88,6 +88,50 @@ export default {
       avatar: '/images/avatar.jpeg',
       thumb: '/images/thumb8.png',
       video: '/video/video8.mp4',
+    },
+    {
+      id: 9,
+      title:
+        'Jefferson Moraes - Ela Tem o Dom De Me Fazer Chorar',
+      channel: 'Everton Douglas',
+      views: '1,9 mi de visualizações',
+      date: 'há 1 semana',
+      avatar: '/images/avatar.jpeg',
+      thumb: '/images/thumb9.jpg',
+      video: '/video/video9.mp4',
+    },
+    {
+      id: 10,
+      title:
+        'The Ultimate Lilo & Stitch Recap Cartoon',
+      channel: 'Everton Douglas',
+      views: '1,9 mi de visualizações',
+      date: 'há 1 semana',
+      avatar: '/images/avatar.jpeg',
+      thumb: '/images/thumb10.jpg',
+      video: '/video/video10.mp4',
+    },
+    {
+      id: 11,
+      title:
+        'Rap do Sasuke - O RENEGADO | NERD HITS',
+      channel: 'Everton Douglas',
+      views: '1 mi de visualizações',
+      date: 'há 2 meses',
+      avatar: '/images/avatar.jpeg',
+      thumb: '/images/thumb11.jpg',
+      video: '/video/video11.mp4',
+    },
+    {
+      id: 12,
+      title:
+        'INQUÉRITO - Rosa do Morro - Part. Roberta Estrela D Alva (Áudio)',
+      channel: 'Everton Douglas',
+      views: '777 mil de visualizações',
+      date: 'há 3 semana',
+      avatar: '/images/avatar.jpeg',
+      thumb: '/images/thumb12.jpg',
+      video: '/video/video12.mp4',
     },
   ]
 }
